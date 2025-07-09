@@ -1,0 +1,21 @@
+pandas>=1.5.0
+numpy>=1.23.0
+matplotlib>=3.5.0
+seaborn>=0.12.0
+nltk>=3.7
+spacy>=3.4.0
+tqdm>=4.64.0
+
+sentence-transformers>=2.2.0
+faiss-cpu>=1.7.4
+# or chromadb>=0.4.22
+
+langchain>=0.2.0
+transformers>=4.40.0
+
+gradio>=4.24.0
+# or streamlit>=1.35.0
+
+python-dotenv>=1.0.0
+jupyter>=1.0.0
+openai>=1.0.0
